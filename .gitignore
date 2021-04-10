@@ -1,0 +1,8 @@
+/node_modules
+package-lock.json
+
+#client
+/client/node_modules
+
+#key
+/config/keys_dev.js
